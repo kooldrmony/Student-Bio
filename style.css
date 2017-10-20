@@ -1,8 +1,57 @@
 .container {
-	color: blue;
+	width: 1024px;
+	margin: 0 auto;
 }
 
 #main-bio {
-	color: red;	
-	font-weight: bold;
+
+	float: left;
+	width: 70%;
+}
+
+#bio-image{
+
+	width: 200px;
+	float: left;
+	margin-right: 20px;
+
+}
+
+body {
+
+	background-color: #efeee7;
+	font-family: Georgia, Times New Roman, Times, Seriff;
+	font-color: #333333;
+	margin: 0;
+	padding: 0;
+
+}
+
+head {
+
+	background-color: #333333;
+}
+
+h1 {
+
+	font-color: #eee;
+	font-size: 28px;
+
+}
+
+h2 {
+
+	font-size: 24px;
+}
+
+#content-info{
+
+	width: 30%;
+	float: left;
+	line-height: 1.5;
+}
+
+a {
+
+	color: #d21034;
 }
